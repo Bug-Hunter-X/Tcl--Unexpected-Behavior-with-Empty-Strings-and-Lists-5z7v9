@@ -1,0 +1,1 @@
+This repository demonstrates common errors in Tcl related to handling empty strings and lists. The `bug.tcl` file showcases incorrect usage and the resulting issues.  The `bugSolution.tcl` file offers improved and safer approaches.  The issues highlighted include uninitialized variables and improper checks for emptiness.
